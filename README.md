@@ -13,5 +13,5 @@ I'm a Product Designer and Python Developer based in Venezuela. I have been invo
 - Figma 🎨
 - Pizza and Beers 🍕🍺
 
-## 💡 Fun Facts (About me)
+## 💡 Fun Fact (About me)
 - I'm actually a Journalism and MBA, so my real superpower is curiosity. I'm always learning, baby 😎
