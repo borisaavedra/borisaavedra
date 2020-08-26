@@ -11,4 +11,4 @@ I'm a Product Designer and Python Developer based in Venezuela. I have been invo
 - Figma 🎨
 
 ## 💡 Fun Facts (About me)
-- I'm actually a Journalims and MBA, so my rela superpower is curiosity. I'm always learning, baby 😎
+- I'm actually a Journalism and MBA, so my real superpower is curiosity. I'm always learning, baby 😎
