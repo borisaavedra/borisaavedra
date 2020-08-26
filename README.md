@@ -1,16 +1,14 @@
-### Hi there 👋
+#  🦾 Hi, I'm Boris. The Tech Dude
 
-<!--
-**borisaavedra/borisaavedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Designer and Python Developer based in Venezuela. I have been involved in digital projects for 5 years (Fintech, Insurtech and Logistic). My roles have been as Product Owner, UX Designer and Software Product Manager. I'm also a self-taught programmer and a passionate about automation with Selenium.
 
-Here are some ideas to get you started:
+## 🔨 My tools
+- Python 🐍
+- Flask 🌶
+- MongoDB 🍃
+- MySQL 🐬
+- Selenium 🤖
+- Figma 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Fun Facts (About me)
+- I'm actually a Journalims and MBA, so my rela superpower is curiosity. I'm always learning, baby 😎
